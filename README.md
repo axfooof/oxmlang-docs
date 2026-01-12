@@ -1,2 +1,8 @@
-# oxmlang-docs
-A most powerful and simple programing language in the World 
+# OXM Language Documentation
+
+## Docs
+- [Simple Docs](SIMPLE_DOCS.md)
+- [CheatSheet](CHEATSHEET.md)
+
+## Examples
+- [Examples](SIMPLE_EXAMPLES.ox)
